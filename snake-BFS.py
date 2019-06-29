@@ -303,4 +303,3 @@ while True:
         break
     # 控制游戏速度
     fpsClock.tick(20)#20看上去速度正好
-
